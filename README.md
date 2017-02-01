@@ -9,4 +9,12 @@ When the HEP user shares a WOIS workflow with the community (by using the tool "
 
 2- Move the file to ~/.qgis2/python/plugins/processing_workflow/workflows/ (to your local WOIS installation or to the WOIS VM)
 
-3- The workflow will be automatically available on WOIS
+3- Refresh QGIS and the workflow will be automatically available on WOIS
+
+### Get a workflow from the repository to my WOIS (using HEP Plugin)
+
+1- Open HEP Plugin and click the button "Get WOIS workflow"
+
+2- Select a workflow to add and click "Get"
+
+3- Refresh QGIS ans the workflow will be automatically available on WOIS
