@@ -1,2 +1,4 @@
 Lake temperature (AATSR);largeLakesAATSR.workflow
 New workflow;new_workflow.workflow
+Water quality and temperature (MODIS)
+;largeLakesMODIS.workflow
