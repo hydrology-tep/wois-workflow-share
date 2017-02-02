@@ -1,5 +1,3 @@
 New workflow;new_workflow.workflow
-Water Quality (MERIS)
-;largeLakesMERIS.workflow
-Water quality and temperature (MODIS)
-;largeLakesMODIS.workflow
+Water Quality (MERIS);largeLakesMERIS.workflow
+Water quality and temperature (MODIS);largeLakesMODIS.workflow
