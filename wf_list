@@ -1,3 +1,5 @@
 New workflow;new_workflow.workflow
 Lake temperature (AATSR)
 ;largeLakesAATSR.workflow
+Water Quality (MERIS)
+;largeLakesMERIS.workflow
